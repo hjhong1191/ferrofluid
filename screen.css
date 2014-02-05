@@ -1,1 +1,42 @@
-
+* {
+  font-family: helvetica;
+  margin: 0 auto;
+}
+.huge{
+  position: relative;
+  width: 100%;
+  margin-bottom: 40px;
+}
+h1 {
+  font-size: 50pt;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  text-align: right;
+}
+.thumbnail {
+  border: solid rgb(192,192,192)1px;
+  padding: 3px;
+  display: inline-block;
+  margin: 0px auto;
+  vertical-align: top;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.text1 {
+  display: inline-block;
+  margin: 0 auto;
+  width: 350px;
+  text-align: left;
+  padding-right: 40px;
+}
+.text2 {
+  display: inline-block;
+  margin: 0 auto;
+  width: 350px;
+  text-align: left;
+}
+.content {
+  width: 750px;
+}
